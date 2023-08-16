@@ -1,0 +1,34 @@
+body {
+    background-image:url('https://images7.alphacoders.com/118/1189619.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a:link {
+  color: #D5FFD0;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #279EFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: none;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: none;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.styled-table td {
+  border: 1px solid black;
+  border-radius: 50px;
+  background-color: #0C356A;
+  text-align: center;
+  font-size: 200%;
+}
+.float-bottom { bottom: 0;}
